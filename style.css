@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+body {
+    font-family: "Inter";
+    background-color: rgb(20, 20, 20);
+}
